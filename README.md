@@ -1,6 +1,3 @@
-# Hishabee-App-Manual-UIUX-Testing-Suite
-This repository contains manually written UI/UX and functional test cases for the Hishabee mobile application. It includes detailed test scenarios, test cases, and documented bug reports focused on modules like Sell, Purchase, and Payment.
-
 # 📱 Hishabee App - Manual UI/UX Testing Suite
 
 This repository contains a comprehensive manual testing suite for the **Hishabee Mobile Application**, focusing on **UI/UX**, **functional**, and **input validation** test cases. It includes real-world scenarios, bug reports, and detailed documentation that showcase testing efforts across key modules of the app.
