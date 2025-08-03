@@ -76,7 +76,6 @@ This project demonstrates practical QA knowledge in:
 ## 🧑‍💻 Author
 
 **MD. Abdul Alim**  
-🔗 [GitHub](https://github.com/rjabdulalim)  
 🔗 [LinkedIn](https://linkedin.com/in/rjalim)  
 📧 rjabdulalim@gmail.com  
 
